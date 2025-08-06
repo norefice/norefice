@@ -1,16 +1,17 @@
-# ¡Hola! 👋 Soy Nicolás
+# ¡Hola! 👋 Soy Nicolás Orefice
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Desarrollador+Full+Stack;Especialista+en+Integraciones;Montevideo%2C+Uruguay" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Scrum+Master+%40+Encuentra.io;Entusiasta+del+Agilismo;Code+Vibe+%F0%9F%92%BB;Montevideo%2C+Uruguay" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí
 
-Desarrollador apasionado por crear soluciones eficientes y escalables. Me especializo en el desarrollo de herramientas de productividad y automatización, con especial enfoque en integraciones con sistemas como Jira.
+Scrum Master apasionado por el agilismo y el desarrollo de software. Me encanta facilitar equipos de alto rendimiento y crear herramientas que automaticen procesos. Siempre conectado con el **Vibe Coding** 🎵 - porque programar es arte en movimiento.
 
 🌍 **Ubicación:** Montevideo, Uruguay  
-💼 **Enfoque:** Desarrollo Full Stack & Automatización  
-🎯 **Objetivo:** Crear herramientas que mejoren la productividad de los equipos
+💼 **Rol Actual:** Scrum Master en [Encuentra.io](https://encuentra.io)  
+🎯 **Pasión:** Agilismo, Automatización & Code Culture  
+⚡ **Code Vibe:** Siempre en sintonía con las mejores prácticas
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -19,15 +20,18 @@ Desarrollador apasionado por crear soluciones eficientes y escalables. Me especi
 ### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks & Bibliotecas
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
-### Herramientas
+### Herramientas & Metodologías
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=confluence&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -45,10 +49,27 @@ Desarrollador apasionado por crear soluciones eficientes y escalables. Me especi
 
 ## 🎯 Proyectos Destacados
 
-### 🔧 Herramientas Jira
-- **[JiraSoporte](https://github.com/norefice/JiraSoporte)** - Automatización de procesos de soporte técnico
-- **[JiraSprints](https://github.com/norefice/JiraSprints)** - Gestión y análisis de sprints
-- **[JiraHoras](https://github.com/norefice/JiraHoras)** - Control de tiempo y productividad
+### 🔧 Herramientas Jira & Automatización
+- **[JiraSoporte](https://github.com/norefice/JiraSoporte)** - Sistema de automatización para soporte técnico
+- **[JiraSprints](https://github.com/norefice/JiraSprints)** - Análisis y gestión avanzada de sprints
+- **[JiraHoras](https://github.com/norefice/JiraHoras)** - Control inteligente de tiempo y productividad
+
+### 🚀 Philosophy
+> "Combinando el agilismo con la automatización para equipos más eficientes"
+
+## 🏃‍♂️ Mi Enfoque Ágil
+
+```python
+class ScrumMaster:
+    def __init__(self):
+        self.facilitation = "Equipos de alto rendimiento"
+        self.automation = ["Python", "JavaScript", "Jira APIs"]
+        self.mindset = "Continuous Improvement"
+        self.code_vibe = True
+    
+    def daily_routine(self):
+        return ["Facilitar", "Automatizar", "Codear", "Mejorar"]
+```
 
 ## 📈 Actividad Reciente
 
