@@ -6,7 +6,8 @@
 
 ## 🚀 Sobre Mí
 
-Scrum Master apasionado por el agilismo y el desarrollo de software. Me encanta facilitar equipos de alto rendimiento y crear herramientas que automaticen procesos. Siempre conectado con el **Vibe Coding** 🎵 - porque programar es arte en movimiento.
+Scrum Master apasionado por el agilismo y el desarrollo de software. Me encanta facilitar equipos de alto rendimiento y crear herramientas que automaticen procesos.
+Siempre conectado con el **Vibe Coding** 🎵 - porque programar es arte en movimiento.
 
 🌍 **Ubicación:** Montevideo, Uruguay  
 💼 **Rol Actual:** Scrum Master en [Encuentra.io](https://encuentra.io)  
