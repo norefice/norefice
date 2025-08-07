@@ -66,7 +66,7 @@ class ScrumMaster:
         self.facilitation = "Equipos de alto rendimiento"
         self.automation = ["Python", "JavaScript", "Jira APIs"]
         self.mindset = "Continuous Improvement"
-        self.code_vibe = True
+        self.vibe_code = True
     
     def daily_routine(self):
         return ["Facilitar", "Automatizar", "Codear", "Mejorar"]
