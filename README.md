@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Nicolás
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Scrum+Master+%40+Encuentra.io;Entusiasta+del+Agilismo;Vibe+Coding+%F0%9F%92%BB;Montevideo%2C+Uruguay" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=ScrumMaster+%40+Encuentra.io;Entusiasta+del+Agilismo;Vibe+Coding+%F0%9F%92%BB;Montevideo%2C+Uruguay" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí
@@ -11,7 +11,7 @@ Siempre conectado con el **Vibe Coding** 🎵 - porque programar es arte en movi
 🌍 **Ubicación:** Montevideo, Uruguay  
 💼 **Rol Actual:** Scrum Master en [Encuentra.io](https://encuentra.io)  
 🎯 **Pasión:** Agilismo, Automatización & Code Culture  
-⚡ **Code Vibe:** Siempre en sintonía con las mejores prácticas
+⚡ **Vibe Coding:** Siempre en sintonía con las mejores prácticas
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -65,7 +65,7 @@ class ScrumMaster:
         self.facilitation = "Equipos de alto rendimiento"
         self.automation = ["Python", "JavaScript", "Jira APIs"]
         self.mindset = "Continuous Improvement"
-        self.vibe_code = True
+        self.vibe_coding = True
     
     def daily_routine(self):
         return ["Facilitar", "Automatizar", "Codear", "Mejorar"]
