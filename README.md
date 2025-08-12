@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Nicolás
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Scrum+Master+%40+Encuentra.io;Entusiasta+del+Agilismo;Code+Vibe+%F0%9F%92%BB;Montevideo%2C+Uruguay" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Scrum+Master+%40+Encuentra.io;Entusiasta+del+Agilismo;Vibe+Coding+%F0%9F%92%BB;Montevideo%2C+Uruguay" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí
