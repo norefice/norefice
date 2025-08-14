@@ -27,6 +27,7 @@ Siempre conectado con el **Vibe Coding** 🎵 - porque programar es arte en movi
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=#57abd)
 
 ### Herramientas & Metodologías
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
