@@ -40,13 +40,7 @@ Siempre conectado con el **Vibe Coding** 🎵 - porque programar es arte en movi
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=norefice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norefice&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=norefice&theme=oceanic-next&locale=es)](https://git.io/streak-stats)
 
 ## 🎯 Proyectos Destacados
 
