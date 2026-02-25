@@ -39,9 +39,13 @@ Siempre conectado con el **Vibe Coding** 🎵 - porque programar es arte en movi
 </div>
 
 ## 📊 Estadísticas de GitHub
+
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=norefice&theme=oceanic-next&locale=es)](https://git.io/streak-stats)
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=norefice&theme=oceanic-next&locale=es)](https://git.io/streak-stats)
+  
 </div>
+
 ## 🎯 Proyectos Destacados
 
 ### 🔧 Herramientas Jira & Automatización
