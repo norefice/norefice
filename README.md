@@ -1,21 +1,30 @@
 # ¡Hola! 👋 Soy Nicolás
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=ScrumMaster+%40+Encuentra.io;Entusiasta+del+Agilismo;Vibe+Coding+%F0%9F%92%BB;Montevideo%2C+Uruguay" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=AI+en+el+Desarrollo+%F0%9F%A4%96;Claude+Code+%26+Cursor;Spec+Driven+Development+%28Kiro%29;%40+Encuentra.io+%7C+Montevideo" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí
 
-Scrum Master apasionado por el agilismo y el desarrollo de software. Me encanta facilitar equipos de alto rendimiento y crear herramientas que automaticen procesos.
-Siempre conectado con el **Vibe Coding** 🎵 - porque programar es arte en movimiento.
+Implemento **AI en el equipo de desarrollo** de [Encuentra.io](https://encuentra.io): desde la adopción de [Claude Code](https://claude.ai) y [Cursor](https://cursor.com) como herramientas centrales del flujo de trabajo, hasta la incorporación de **Spec Driven Development** con [Kiro](https://kiro.ai) como framework para que las especificaciones guíen el diseño y la implementación desde el día uno.
 
-🌍 **Ubicación:** Montevideo, Uruguay  
-💼 **Rol Actual:** Scrum Master en [Encuentra.io](https://encuentra.io)  
-🎯 **Pasión:** Agilismo, Automatización & Code Culture  
-⚡ **Vibe Coding:** Siempre en sintonía con las mejores prácticas
+Mi foco es que AI no sea solo una herramienta personal, sino parte integral de cómo el equipo desarrolla software.
+
+🤖 **Stack AI:** Claude Code · Cursor · Spec Driven Development (Kiro)
+
+🌍 **Ubicación:** Montevideo, Uruguay
+
+💼 **Rol:** AI & Development @ [Encuentra.io](https://encuentra.io)
+
+🎯 **Foco:** Implementación de AI en equipos, Spec Driven Development, automatización
 
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
+
+### AI & Desarrollo
+![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-Spec_Driven_Dev-2E9EF7?style=for-the-badge)
 
 ### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,12 +38,11 @@ Siempre conectado con el **Vibe Coding** 🎵 - porque programar es arte en movi
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=#57abd)
 
-### Herramientas & Metodologías
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=confluence&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=confluence&logoColor=white)
 
 </div>
 
@@ -43,43 +51,45 @@ Siempre conectado con el **Vibe Coding** 🎵 - porque programar es arte en movi
 <div align="center">
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=norefice&theme=oceanic-next&locale=es)](https://git.io/streak-stats)
-  
+
 </div>
 
 ## 🎯 Proyectos Destacados
 
-### 🔧 Herramientas Jira & Automatización
-- **[JiraSoporte](https://github.com/norefice/JiraSoporte)** - Sistema de automatización para soporte técnico
-- **[JiraSprints](https://github.com/norefice/JiraSprints)** - Análisis y gestión avanzada de sprints
-- **[JiraHoras](https://github.com/norefice/JiraHoras)** - Control inteligente de tiempo y productividad
+### 🤖 AI en el Equipo de Desarrollo
+- **Implementación de Claude Code & Cursor** — integración de AI como parte central del flujo de desarrollo del equipo
+- **Spec Driven Development con [Kiro](https://kiro.ai)** — las specs como punto de partida para diseño e implementación
 
-### 🚀 Philosophy
-> "Combinando el agilismo con la automatización para equipos más eficientes"
+### 🔧 Automatización con Jira
+- **[JiraSoporte](https://github.com/norefice/JiraSoporte)** - Automatización para soporte técnico
+- **[JiraSprints](https://github.com/norefice/JiraSprints)** - Análisis y gestión de sprints
+- **[JiraHoras](https://github.com/norefice/JiraHoras)** - Control de tiempo y productividad
 
-## 🏃‍♂️ Mi Enfoque Ágil
+## 🏃‍♂️ Mi Enfoque
 
 ```python
-class ScrumMaster:
+class DevWithAI:
     def __init__(self):
-        self.facilitation = "Equipos de alto rendimiento"
+        self.ai_stack = ["Claude Code", "Cursor", "Kiro (Spec Driven Dev)"]
+        self.mission = "AI como parte integral del equipo, no solo una herramienta"
+        self.framework = "Specs first, then code"
         self.automation = ["Python", "JavaScript", "Jira APIs"]
-        self.mindset = "Continuous Improvement"
-        self.vibe_coding = True
-    
-    def daily_routine(self):
-        return ["Facilitar", "Automatizar", "Codear", "Mejorar"]
+        self.background = "Scrum Master · agilismo"
+
+    def priorities(self):
+        return [
+            "Implementar AI en el equipo de desarrollo",
+            "Usar AI para desarrollar mejor y más rápido",
+            "Specs → diseño → implementación (Kiro)",
+            "Automatizar todo lo que se pueda",
+        ]
 ```
 
-## 📈 Actividad Reciente
+## 🌱 Actualmente
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 🌱 Actualmente Aprendiendo
-
-- Nuevas técnicas de automatización
-- Mejores prácticas en DevOps
-- Arquitecturas cloud-native
+- **Implementando AI** en el equipo de desarrollo con Claude Code y Cursor
+- **Adoptando Spec Driven Development** como framework con [Kiro](https://kiro.ai) 
+- Explorando cómo escalar el uso de AI más allá del developer individual
 
 ## 💬 Conectemos
 
@@ -97,5 +107,5 @@ class ScrumMaster:
 ---
 
 <div align="center">
-  <i>⚡ "El código es poesía en movimiento" ⚡</i>
+  <i>⚡ "AI en el flujo de desarrollo — specs que guían, código que fluye" ⚡</i>
 </div>
