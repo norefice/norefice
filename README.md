@@ -80,7 +80,7 @@ class DevWithAI:
         return [
             "Implementar AI en el equipo de desarrollo",
             "Usar AI para desarrollar mejor y más rápido",
-            "Specs → diseño → implementación (Kiro)",
+            "Specs → diseño → implementación",
             "Automatizar todo lo que se pueda",
         ]
 ```
