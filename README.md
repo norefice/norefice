@@ -5,11 +5,11 @@
 
 ## 🚀 Sobre Mí
 
-Implemento **AI en el equipo de desarrollo** de [Encuentra.io](https://encuentra.io): desde la adopción de [Claude Code](https://claude.ai) y [Cursor](https://cursor.com) como herramientas centrales del flujo de trabajo, hasta la incorporación de **Spec Driven Development** con [Kiro](https://kiro.ai) como framework para que las especificaciones guíen el diseño y la implementación desde el día uno.
+Implemento **AI en el equipo de desarrollo** de [Encuentra.io](https://encuentra.io): desde la adopción de [Claude Code](https://claude.ai) y [Cursor](https://cursor.com) como herramientas centrales del flujo de trabajo, hasta la incorporación de **Spec Driven Development**.
 
 Mi foco es que AI no sea solo una herramienta personal, sino parte integral de cómo el equipo desarrolla software.
 
-🤖 **Stack AI:** Claude Code · Cursor · Spec Driven Development (Kiro)
+🤖 **Stack AI:** Claude Code · Cursor · Spec Driven Development
 
 🌍 **Ubicación:** Montevideo, Uruguay
 
