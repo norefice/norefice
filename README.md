@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Nicolás
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=AI+en+el+Desarrollo+%F0%9F%A4%96;Claude+Code+%26+Cursor;Spec+Driven+Development+%28Kiro%29;%40+Encuentra.io+%7C+Montevideo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=AI+en+el+Desarrollo+%F0%9F%A4%96;Claude+Code+%26+Cursor;Spec+Driven+Development;%40+Encuentra.io+%7C+Montevideo" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí
@@ -58,7 +58,7 @@ Mi foco es que AI no sea solo una herramienta personal, sino parte integral de c
 
 ### 🤖 AI en el Equipo de Desarrollo
 - **Implementación de Claude Code & Cursor** — integración de AI como parte central del flujo de desarrollo del equipo
-- **Spec Driven Development con [Kiro](https://kiro.ai)** — las specs como punto de partida para diseño e implementación
+- **Spec Driven Development** — las specs como punto de partida para diseño e implementación
 
 ### 🔧 Automatización con Jira
 - **[JiraSoporte](https://github.com/norefice/JiraSoporte)** - Automatización para soporte técnico
@@ -70,7 +70,7 @@ Mi foco es que AI no sea solo una herramienta personal, sino parte integral de c
 ```python
 class DevWithAI:
     def __init__(self):
-        self.ai_stack = ["Claude Code", "Cursor", "Kiro (Spec Driven Dev)"]
+        self.ai_stack = ["Claude Code", "Cursor", "Spec Driven Dev"]
         self.mission = "AI como parte integral del equipo, no solo una herramienta"
         self.framework = "Specs first, then code"
         self.automation = ["Python", "JavaScript", "Jira APIs"]
@@ -88,7 +88,7 @@ class DevWithAI:
 ## 🌱 Actualmente
 
 - **Implementando AI** en el equipo de desarrollo con Claude Code y Cursor
-- **Adoptando Spec Driven Development** como framework con [Kiro](https://kiro.ai) 
+- **Adoptando Spec Driven Development** como framework
 - Explorando cómo escalar el uso de AI más allá del developer individual
 
 ## 💬 Conectemos
