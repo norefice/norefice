@@ -16,10 +16,13 @@ Mi laboratorio cotidiano es [Encuentra.io](https://encuentra.io), una plataforma
 - **MCPs** integrados a Atlassian, Slack y herramientas internas para mantener el contexto sin salir del flujo.
 - **AI sobre legacy enterprise** — el desafío real no es generar código nuevo, es operar con AI dentro de un codebase con años de historia, convenciones idiosincráticas y clientes que no toleran regresiones.
 
+📂 **[claude-code-routing](https://github.com/norefice/claude-code-routing)** — el framework que uso para decidir cuándo una tarea va como prompt directo, subagent, o agent team. Catálogo de los 11 subagents que dispatcheo y guía para adaptarlo a otro stack.
+
 ## Proyectos públicos
 
 | Repo | Qué es |
 |---|---|
+| [claude-code-routing](https://github.com/norefice/claude-code-routing) | Framework de decisión para routear tareas en Claude Code (prompt / subagent / agent team) en codebases enterprise. |
 | [Obsidian-Taskify](https://github.com/norefice/Obsidian-Taskify) | Plugin de Obsidian para gestionar tareas dentro de notas (estados, prioridad, tags, due date). TypeScript. |
 | [JiraSoporte](https://github.com/norefice/JiraSoporte) | Dashboard Flask para métricas de Service Desk en Jira. |
 | [JiraSprints](https://github.com/norefice/JiraSprints) | Análisis y visualización de sprints sobre la API de Jira. |
